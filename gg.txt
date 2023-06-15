@@ -1,0 +1,19 @@
+Timetable
+    - filter based on course-class
+
+Profile
+    - add same profile page to both hod and faculty
+
+Slot Management
+    - date
+    - reason
+    - slot number
+        => submit
+notification
+    - notify all the other faculties 
+
+home
+    - right side => calendar
+    - left side => courses handled by faculty
+
+    
