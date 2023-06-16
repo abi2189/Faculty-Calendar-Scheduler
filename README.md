@@ -1,1 +1,1 @@
-# Faculty-Calendar-Scheduler
+# Faculty Calendar Scheduler
