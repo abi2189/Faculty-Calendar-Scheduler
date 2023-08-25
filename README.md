@@ -32,7 +32,7 @@ The Faculty Calendar Scheduler web application is built using the following tech
 - Slot Management
   - Here, in case a faculty is ready to swap slots or is giving a free period, he/she can mention which period and apply
   - This is then sent as a notification to other faculties who can then view and take up the class if required
-- Notificatio
+- Notification
   - Here the faculties can view notifications and take a decision
 - Profile Settings
   - The faculty can view/edit his/her profile details here.
